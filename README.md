@@ -1,3 +1,4 @@
+[![Practice CI with GitHub Actions using Ant and JUnit | © 2022 by Deadworld ](https://github.com/Deadworld-bit/math-util-1506/actions/workflows/mathutil-ci.yml/badge.svg)](https://github.com/Deadworld-bit/math-util-1506/actions/workflows/mathutil-ci.yml)
 # Welcome to Math Utility Repository
 ## This repo stores a Java library to support for the Math calculation. You will find in this repo the following stuff
 * MathUtil class to offer the basic math operations. E.g. get compute a Factorial,...
