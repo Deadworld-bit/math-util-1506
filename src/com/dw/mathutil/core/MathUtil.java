@@ -28,7 +28,7 @@ public class MathUtil {
                       + " n must be between 0..20");
         if(n == 0||n == 1)
             return 1;
-        long product = 1; //ket qua trung gian
+        long product = 10; //ket qua trung gian
         for (int i = 2; i <= n; i++) 
             product*=i;
         return product;
